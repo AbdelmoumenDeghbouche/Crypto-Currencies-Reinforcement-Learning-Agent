@@ -138,13 +138,15 @@ Final results are visualized to display:
 - **Final net worth**
 
 #### Example Plot:
-Insert a final plot image here, showing rewards and profit trends over time.
+Below is the final plot showing rewards and profit trends over time:
 ```python
 plt.figure(figsize=(15,6))
 plt.cla()
 test_env.render_all()
 plt.show()
 ```
+
+![Final Results Plot](Plots/final_results_plot.png)
 
 ---
 
