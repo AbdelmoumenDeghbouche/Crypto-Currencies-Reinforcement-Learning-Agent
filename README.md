@@ -146,7 +146,7 @@ test_env.render_all()
 plt.show()
 ```
 
-![Final Results Plot](Plots/final_results_plot.png)
+![Final Results Plot](Plots/final_results_plot.jpg)
 
 ---
 
